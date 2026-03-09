@@ -7,3 +7,4 @@
 
 ## Objectives
 Practice basic and advanced Git commands.
+- Understand conflict resolution and merge
